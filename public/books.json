@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "summary": "A practical guide about writing code that is easy to read and maintain."
+  },
+  {
+    "id": 2,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "summary": "A book with practical habits and mindset tips for software developers."
+  },
+  {
+    "id": 3,
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "summary": "An introduction to improving existing code without changing behavior."
+  }
+]
